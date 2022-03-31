@@ -31,14 +31,14 @@ New York City has around 800 bike stations with around 14,000 bikes. August 2019
 
 |**Users by Gender**                             |**Users by type**                           |
 |:----------------------------------------------:|:------------------------------------------:|
-|![Users by Gender](/Resources/riders_gender.png)|![Users by type](/Resources/riders_type.png)|
+|![Users by Gender](/Resources/riders_gender.png)|![Users by type](/Resources/rider_type.png)|
 
 Data shows that male users are 2.6x female users. This contrasts to NYC actual population which show that women comprise 53% of total population.
 
 NYC provides both membership or pay-by-day and pay-by-ride. Data shows that 81% or rides are made by suscriber riders. This would imply that bike transportation is a good alternative to the transportation infrastructure (metro, buses, taxis).  Most non-suscriber rides would be made by tourists.  
 
 ### Checkout times
-
+|:------------------|:----------------------------------------------------------------|
 |**Overall usage**  |![Checkout times](/Resources/Checkout_times.png)                 |
 |**Usage by gender**|![Checkout times by gender](/Resources/Checkout_times_gender.png)|
 
@@ -46,6 +46,7 @@ As it can be seen the average usage time is between 5 and 6 minutes with no real
 
 ### Trips by weekday
 
+|:------------------------------------|:-------------------------------------------------|
 |**Trips per week and hour**          |![trips_week_hour](/Resources/trips_week_hour.png)|
 |**Trips per week and hour by gender**|![trips_gender](/Resources/trips_gender.png)      |
 
@@ -57,7 +58,7 @@ The graphs above show that:
 - The behaviour is the same for both male and female, although, as mentioned earlier, men use the service more than women.
 
 
-|**Trips per week and hour by type and gender**|![trips_gender_type](/Resources/trips_gender_weekday.png)|
+![trips_gender_type](/Resources/trips_gender_weekday.png)
 
 Finally, this last graph reaffirms that most suscribers use bikes for their daily commuting to and from work and during weekends to commute within the city.  Customers (one-ride or day-pass) show more usage during the weekends.
 
